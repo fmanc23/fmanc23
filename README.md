@@ -1,13 +1,14 @@
 <h1 align="center">Hey there, I'm Francesco 👋</h1>
 
 <p align="center">
-  <b>Data Engineer & Software Developer</b><br>
+  <b>Data Engineer &amp; Software Developer</b><br>
   MSc in Big Data Analysis — UNIMORE
 </p>
 
 <p align="center">
-  <a href="mailto:f.mancinelli23@gmail.com"><img src="https://img.shields.io/badge/Email-f.mancinelli23%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/fmanc23"><img src="https://img.shields.io/badge/GitHub-fmanc23-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:f.mancinelli23@gmail.com"><img src="https://img.shields.io/badge/Email-f.mancinelli23%40gmail.com-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/francesco-mancinelli-23a0b93a4"><img src="https://img.shields.io/badge/LinkedIn-Francesco%20Mancinelli-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/fmanc23"><img src="https://img.shields.io/badge/GitHub-fmanc23-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
@@ -23,8 +24,8 @@ I currently work at **MASSINI Industries S.r.l.** — a manufacturing company sp
 ### 🔭 What I'm Working On
 
 - 🎓 Completing my **MSc in Big Data Analysis** @ UNIMORE
-- 🏭 Software development & industrial automation @ **MASSINI Industries S.r.l.**
-- 📊 Academic projects in **Machine Learning**, **Deep Learning** & **Computer Vision**
+- 🏭 Software development &amp; industrial automation @ **MASSINI Industries S.r.l.**
+- 📊 Academic projects in **Machine Learning**, **Deep Learning** &amp; **Computer Vision**
 
 ---
 
@@ -40,19 +41,19 @@ I currently work at **MASSINI Industries S.r.l.** — a manufacturing company sp
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![VB](https://img.shields.io/badge/Visual%20Basic-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-**Frameworks & Platforms**
+**Frameworks &amp; Platforms**
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-**Data Science & ML**
+**Data Science &amp; ML**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Tools & Other**
+**Tools &amp; Other**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
@@ -91,6 +92,7 @@ I currently work at **MASSINI Industries S.r.l.** — a manufacturing company sp
 Feel free to reach out if you'd like to collaborate, discuss a project or just have a chat:
 
 - ✉️ [f.mancinelli23@gmail.com](mailto:f.mancinelli23@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/francesco-mancinelli-23a0b93a4)
 - 💻 [github.com/fmanc23](https://github.com/fmanc23)
 
 ---
