@@ -15,7 +15,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a 24-year-old Computer Engineer with a strong passion for **Big Data**, **Machine Learning** and software development. I hold a Bachelor's degree in **Computer and Electronic Engineering** (UNIPG) and I'm currently completing my Master's degree in **Big Data Analysis** (UNIMORE, GPA 28/30).
+I'm a 24-year-old Computer Engineer with a strong passion for **Big Data**, **Machine Learning** and software development. I hold a Bachelor's degree in **Computer and Electronic Engineering** (UNIPG) and a my Master's degree in **Big Data Analysis** (UNIMORE, GPA 28/30).
 
 I currently work at **MASSINI Industries S.r.l.** — a manufacturing company specializing in packaging machinery, material handling systems and industrial automation — where I focus on software development with **C#**, **.NET** and **SQL Server**, MES/ERP system integration and process automation solutions.
 
